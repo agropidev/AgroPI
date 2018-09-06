@@ -2,7 +2,9 @@
 
 Este repositorio foi criado pela equipe AgroPi do curso Tecnologo em **Big Data no Agronegocio** da **FATEC "*Shunji Nishimura*".**
 
-### [Project Charter](https://i.imgur.com/mo3jaqy.jpg):
+### Project Charter:
+  [ver imagem do Project Charter](https://i.imgur.com/mo3jaqy.jpg)
+  
   * ##### Declaração do Problema:
       Não possui um Sistema Operacional para um dispositivo embarcado Open Source, que atenda completamente as necessidades de IoT (Internet of Things) e Big Data. Sendo este um sistema que contenha um servidor pré-configurado para emissão dos dados capturados pelos sensores.
        
