@@ -24,10 +24,25 @@ Aqui disponibilizamos todos os processos do projeto.
       * Modificação do sistema base.
       * Desenvolvimento do site da distribuição
       * Documentação da distribuição
-     
-     
-
-![Project Charter](https://i.imgur.com/mo3jaqy.jpg)
+ 
+ 
+  * ##### Análises:      
+      * Análise das linceças das aplicações selecionadas.
+      * Análise do impacto das alterações no sistema base.
+      * Análise da dificuldade das técnicas utilizada no projeto.
+ 
+  * ##### Dentro do Escopo :      
+      * Pesquisar Sistema Operacional para o Raspberry
+      * Fazer uma aplicação modelo no **Node Red**
+      * Testar Sistema Operacional base com as modificações.
+      * Documentar o Projeto
+      
+  * ##### Fora do Escopo :      
+      * Desenvolver um Sistema Operacional do zero.
+      * Criar um sensor
+      * Criar um dispositivo embarcado (Raspberry)
+      
+      
 ### Cronograma
 ![cronograma](https://i.imgur.com/PnkIC6e.jpg)
 
