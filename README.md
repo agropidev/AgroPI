@@ -6,7 +6,7 @@ Temos como objetivo modificar o Raspbian, afim de criar um device para facilitar
 Aqui disponibilizamos todos os processos do projeto.
 ### Project Charter:
   * ##### Declaração do Problema:
-      Não possui um Sistema Operancional para um dispositivo embarcado Open Source, que atenda completamente as necessidades de IoT (Internet of Things) e Big Data. Sendo este um sistema que contenha um servidor pré-configurado para emissão dos dados capturados pelos sensores.
+      Não possui um Sistema Operacional para um dispositivo embarcado Open Source, que atenda completamente as necessidades de IoT (Internet of Things) e Big Data. Sendo este um sistema que contenha um servidor pré-configurado para emissão dos dados capturados pelos sensores.
        
    * ##### Ação Proposta:
        * Pesquisar um Sistema Operacional para utilizar como base. e 
