@@ -18,9 +18,17 @@ Aqui disponibilizamos todos os processos do projeto.
 ![Project Charter](https://i.imgur.com/mo3jaqy.jpg)
 ### Cronograma
 ![cronograma](https://i.imgur.com/PnkIC6e.jpg)
+
+### Gostaria de Contribuir com o Projeto ?
+O projeto está aberto a qualquer pessoa, o nosso objetivo está registrado nos topicos Project Charter e MVP vistos anteriormente, logo abaixo está o conhecimento necessário para contribuir com o projeto.    
+
 ### Mapa de Conhecimento
-![mapa de conhecimento](https://i.imgur.com/9SHoGTI.png)
+![mapa de conhecimento](https://i.imgur.com/nXuC9Dy.png)
 ### Mapa Técnico
-![mapa tecnico](https://i.imgur.com/N8JH0oF.png)
+![mapa tecnico](https://i.imgur.com/o9GwVwZ.png)
+
+Não deixe de ajudar a comunidade Open Source, não hesite em nos enviar as suas dúvidas e sugestões.
+email: agropidev@gmail.com
+
 #### Grafico de Habilidade da Equipe
 ![grafico de habilidade](https://i.imgur.com/plyFM4J.png)
