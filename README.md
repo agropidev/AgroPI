@@ -1,4 +1,4 @@
-https://camo.githubusercontent.com/c07dd089c7b10423c39fda41821818972178d45c/68747470733a2f2f692e696d6775722e636f6d2f6d6f336a6171792e6a7067# AgroPI
+# AgroPI
 
 Este repositorio foi criado pela equipe AgroPi do curso Tecnologo em **Big Data no Agronegocio** da **FATEC "*Shunji Nishimura*".**
 Temos como objetivo modificar o Raspbian, afim de criar um device para facilitar as aulas de IoT para os proximos alunos.
@@ -18,7 +18,12 @@ Aqui disponibilizamos todos os processos do projeto.
       Customizar uma Sistema Operacional para Raspberry, que atenda as necessidades exigidas e distribui-la de maneira Open Source.
 
   * ##### Declaração dos indicadores:      
-      * Escolha do S.O base para o projeto
+      * Escolha do S.O base para o projeto.
+      * Escolha das aplicações.
+      * Instalação das aplicações no sistema base.
+      * Modificação do sistema base.
+      * Desenvolvimento do site da distribuição
+      * Documentação da distribuição
      
      
 
