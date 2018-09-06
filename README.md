@@ -1,4 +1,4 @@
-# AgroPI
+https://camo.githubusercontent.com/c07dd089c7b10423c39fda41821818972178d45c/68747470733a2f2f692e696d6775722e636f6d2f6d6f336a6171792e6a7067# AgroPI
 
 Este repositorio foi criado pela equipe AgroPi do curso Tecnologo em **Big Data no Agronegocio** da **FATEC "*Shunji Nishimura*".**
 Temos como objetivo modificar o Raspbian, afim de criar um device para facilitar as aulas de IoT para os proximos alunos.
@@ -6,7 +6,21 @@ Temos como objetivo modificar o Raspbian, afim de criar um device para facilitar
 Aqui disponibilizamos todos os processos do projeto.
 ### Project Charter:
   * ##### Declaração do Problema:
-                Não possui uma plataforma
+      Não possui um Sistema Operancional para um dispositivo embarcado Open Source, que atenda completamente as necessidades de IoT (Internet of Things) e Big Data. Sendo este um sistema que contenha um servidor pré-configurado para emissão dos dados capturados pelos sensores.
+       
+   * ##### Ação Proposta:
+       * Pesquisar um Sistema Operacional para utilizar como base. e 
+       * Implementar as modificações no sistema base, afim de solucionar o problema.
+       * Pesquisar Sensores que possam ser utilizados no dispositivo embarcado.
+       * Criar uma aplicação modelo no **Node Red**.
+
+  * ##### Declaração do objetivo:
+      Customizar uma Sistema Operacional para Raspberry, que atenda as necessidades exigidas e distribui-la de maneira Open Source.
+
+  * ##### Declaração dos indicadores:      
+      * Escolha do S.O base para o projeto
+     
+     
 
 ![Project Charter](https://i.imgur.com/mo3jaqy.jpg)
 ### Cronograma
