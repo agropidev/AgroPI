@@ -4,7 +4,10 @@ Este repositorio foi criado pela equipe AgroPi do curso Tecnologo em **Big Data 
 Temos como objetivo modificar o Raspbian, afim de criar um device para facilitar as aulas de IoT para os proximos alunos.
 
 Aqui disponibilizamos todos os processos do projeto.
-### Project Charter
+### Project Charter:
+  * ##### Declaração do Problema:
+                Não possui uma plataforma
+
 ![Project Charter](https://i.imgur.com/mo3jaqy.jpg)
 ### Cronograma
 ![cronograma](https://i.imgur.com/PnkIC6e.jpg)
