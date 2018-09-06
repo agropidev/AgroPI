@@ -1,9 +1,7 @@
 # AgroPI
 
 Este repositorio foi criado pela equipe AgroPi do curso Tecnologo em **Big Data no Agronegocio** da **FATEC "*Shunji Nishimura*".**
-Temos como objetivo modificar o Raspbian, afim de criar um device para facilitar as aulas de IoT para os proximos alunos.
 
-Aqui disponibilizamos todos os processos do projeto.
 ### Project Charter:
   * ##### Declaração do Problema:
       Não possui um Sistema Operacional para um dispositivo embarcado Open Source, que atenda completamente as necessidades de IoT (Internet of Things) e Big Data. Sendo este um sistema que contenha um servidor pré-configurado para emissão dos dados capturados pelos sensores.
@@ -18,7 +16,7 @@ Aqui disponibilizamos todos os processos do projeto.
       Customizar uma Sistema Operacional para Raspberry, que atenda as necessidades exigidas e distribui-las de maneira Open Source.
 
   * ##### Declaração dos indicadores:      
-      * [x] Escolha do S.O base para o projeto.
+      * Escolha do S.O base para o projeto.
       * Escolha das aplicações.
       * Instalação das aplicações no sistema base.
       * Modificação do sistema base.
