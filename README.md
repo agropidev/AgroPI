@@ -9,16 +9,16 @@ Aqui disponibilizamos todos os processos do projeto.
       Não possui um Sistema Operacional para um dispositivo embarcado Open Source, que atenda completamente as necessidades de IoT (Internet of Things) e Big Data. Sendo este um sistema que contenha um servidor pré-configurado para emissão dos dados capturados pelos sensores.
        
    * ##### Ação Proposta:
-       * Pesquisar um Sistema Operacional para utilizar como base. e 
+       * Pesquisar um Sistema Operacional para utilizar como base.
        * Implementar as modificações no sistema base, afim de solucionar o problema.
        * Pesquisar Sensores que possam ser utilizados no dispositivo embarcado.
        * Criar uma aplicação modelo no **Node Red**.
 
   * ##### Declaração do objetivo:
-      Customizar uma Sistema Operacional para Raspberry, que atenda as necessidades exigidas e distribui-la de maneira Open Source.
+      Customizar uma Sistema Operacional para Raspberry, que atenda as necessidades exigidas e distribui-las de maneira Open Source.
 
   * ##### Declaração dos indicadores:      
-      * Escolha do S.O base para o projeto.
+      * [x] Escolha do S.O base para o projeto.
       * Escolha das aplicações.
       * Instalação das aplicações no sistema base.
       * Modificação do sistema base.
