@@ -14,7 +14,7 @@ Este repositorio foi criado pela equipe AgroPi do curso Tecnologo em **Big Data 
        * Criar uma aplicação modelo no **Node Red**.
 
   * ##### Declaração do objetivo:
-      Customizar uma Sistema Operacional para Raspberry, que atenda as necessidades exigidas e distribui-las de maneira Open Source.
+      Customizar um Sistema Operacional para Raspberry, que atenda as necessidades exigidas e distribui-las de maneira Open Source.
 
   * ##### Declaração dos indicadores:      
       * Escolha do S.O base para o projeto.
@@ -26,7 +26,7 @@ Este repositorio foi criado pela equipe AgroPi do curso Tecnologo em **Big Data 
  
  
   * ##### Análises:      
-      * Análise das linceças das aplicações selecionadas.
+      * Análise das licenças das aplicações selecionadas.
       * Análise do impacto das alterações no sistema base.
       * Análise da dificuldade das técnicas utilizada no projeto.
  
@@ -55,13 +55,14 @@ O projeto está aberto a qualquer pessoa, o nosso objetivo está registrado nos 
 ![mapa tecnico](https://i.imgur.com/o9GwVwZ.png)
 
 #### Grafico de Habilidade da Equipe
-![grafico de habilidade individual](https://trello-attachments.s3.amazonaws.com/5b7861efc66bb950ed8d896e/5b97c22b00d2ae8397ee9acc/4532f1e9d6a3ae091e6ae73290a5170d/image.png)
+![grafico de habilidade individual](https://trello-attachments.s3.amazonaws.com/5b7861efc66bb950ed8d896e/5b88275f2f0ff57d45625204/bc22e0c81bd59f3e989c9f4183957ee1/image.png)
 ![grafico de habilidade](https://i.imgur.com/plyFM4J.png)
 
 Aluno | Cargo | Termo | Email
 ------|-------|-------|-------------
 Lucas Palomo| Scrum Master | 3º | @gmail.com
 Icaro Yuri | Scrum Master | 3º | @gmail.com
+Letiça de Jesus | Desenvolvedor | 3º | @gmail.com
 Leandro Passarelli | Desenvolvedor | 4º | @gmail.com
 Matheus Gomes |  Desenvolvedor | 2º | @gmail.com
 Pedro Luís | Desenvolvedor | 2º | @gmail.com
