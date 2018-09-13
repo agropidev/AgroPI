@@ -54,9 +54,6 @@ O projeto está aberto a qualquer pessoa, o nosso objetivo está registrado nos 
 ### Mapa Técnico
 ![mapa tecnico](https://i.imgur.com/o9GwVwZ.png)
 
-Não deixe de ajudar a comunidade Open Source, não hesite em nos enviar as suas dúvidas e sugestões.
-email: agropidev@gmail.com
-
 #### Grafico de Habilidade da Equipe
 ![grafico de habilidade](https://i.imgur.com/plyFM4J.png)
 
@@ -70,3 +67,6 @@ Pedro Luís | Desenvolvedor | 2º | @gmail.com
 Vinicius Padovezzi | Desenvolvedor | 1º| @gmail.com
 Wagner Roberto | Desenvolvedor | 1º | @gmail.com
 Lucas Natan | Desenvolvedor | 1º | @gmail.com
+
+Não deixe de ajudar a comunidade Open Source, não hesite em nos enviar as suas dúvidas e sugestões.
+email: agropidev@gmail.com
