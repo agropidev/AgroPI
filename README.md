@@ -5,18 +5,13 @@ Este repositorio foi criado pela equipe AgroPi do curso Tecnologo em **Big Data 
 
 [Project Charter](https://github.com/agropidev/AgroPI/wiki/Project-Charter)  
 [Cronograma](https://github.com/agropidev/AgroPI/wiki/Cronograma)
+[Mapa de Conhecimento](https://github.com/agropidev/AgroPI/wiki/Mapa-de-Conhecimento)
+[Mapa Técnico](https://github.com/agropidev/AgroPI/wiki/Mapa-T%C3%A9cnico)
+[Matriz de Habilidade](https://github.com/agropidev/AgroPI/wiki/Matriz-de-Habilidade)
 
 ### Gostaria de Contribuir com o Projeto ?
 O projeto está aberto a qualquer pessoa, o nosso objetivo está registrado nos topicos Project Charter e MVP vistos anteriormente, logo abaixo está o conhecimento necessário para contribuir com o projeto.    
 
-### Mapa de Conhecimento
-![mapa de conhecimento](https://i.imgur.com/nXuC9Dy.png)
-### Mapa Técnico
-![mapa tecnico](https://i.imgur.com/o9GwVwZ.png)
-
-#### Grafico de Habilidade da Equipe
-![grafico de habilidade individual](https://trello-attachments.s3.amazonaws.com/5b7861efc66bb950ed8d896e/5b88275f2f0ff57d45625204/bc22e0c81bd59f3e989c9f4183957ee1/image.png)
-![grafico de habilidade](https://i.imgur.com/plyFM4J.png)
 
 Aluno | Cargo | Termo | Email
 ------|-------|-------|-------------
