@@ -55,8 +55,8 @@ O projeto está aberto a qualquer pessoa, o nosso objetivo está registrado nos 
 ![mapa tecnico](https://i.imgur.com/o9GwVwZ.png)
 
 #### Grafico de Habilidade da Equipe
-![grafico de habilidade](https://i.imgur.com/plyFM4J.png)
 ![grafico de habilidade individual](https://trello-attachments.s3.amazonaws.com/5b7861efc66bb950ed8d896e/5b97c22b00d2ae8397ee9acc/4532f1e9d6a3ae091e6ae73290a5170d/image.png)
+![grafico de habilidade](https://i.imgur.com/plyFM4J.png)
 
 Aluno | Cargo | Termo | Email
 ------|-------|-------|-------------
