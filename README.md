@@ -3,10 +3,14 @@
 Este repositorio foi criado pela equipe AgroPi do curso Tecnologo em **Big Data no Agronegócio** da **FATEC "*Shunji Nishimura*".** , o Projeto AgroPi é um fork do Raspbian para uso Educacional nas Aulas de Big Data no Agronegócio, trazendo em seu sistema exemplos de Web Bot, Scripts de Arduino e Exemplos de Conexão MQTT junto com Node Red 
 
 
-[Project Charter](https://github.com/agropidev/AgroPI/wiki/Project-Charter)  
+[Project Charter](https://github.com/agropidev/AgroPI/wiki/Project-Charter)
+
 [Cronograma](https://github.com/agropidev/AgroPI/wiki/Cronograma)
+
 [Mapa de Conhecimento](https://github.com/agropidev/AgroPI/wiki/Mapa-de-Conhecimento)
+
 [Mapa Técnico](https://github.com/agropidev/AgroPI/wiki/Mapa-T%C3%A9cnico)
+
 [Matriz de Habilidade](https://github.com/agropidev/AgroPI/wiki/Matriz-de-Habilidade)
 
 ### Gostaria de Contribuir com o Projeto ?
