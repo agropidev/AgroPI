@@ -60,23 +60,13 @@ email: agropidev@gmail.com
 #### Grafico de Habilidade da Equipe
 ![grafico de habilidade](https://i.imgur.com/plyFM4J.png)
 
-### Alunos:
-   * Lucas Palomo
-        * 3º Termo __*Scrum Master*__
-   * Icaro Yuri
-        * 3º Termo __*Scrum Master*__
-   * Leandro Passarelli
-        * 4º Termo 
-   * Matheus Gomes
-        * 2º Termo
-   * Pedro Luís
-        * 2º Termo
-   * Vinicius Padovezzi
-        * 1º Termo
-   * Wagner Roberto
-        * 1º Termo
-   * Lucas Natan 
-        * 1º Termo
-
-### Contribuidores Externos:
-   * ~~[Unnamedx16](https://github.com/Unnamedx16)~~
+Aluno | Cargo | Termo | Email
+------|-------|-------|-------------
+Lucas Palomo| Scrum Master | 3º | @gmail.com
+Icaro Yuri | Scrum Master | 3º | @gmail.com
+Leandro Passarelli | Desenvolvedor | 4º | @gmail.com
+Matheus Gomes |  Desenvolvedor | 2º | @gmail.com
+Pedro Luís | Desenvolvedor | 2º | @gmail.com
+Vinicius Padovezzi | Desenvolvedor | 1º| @gmail.com
+Wagner Roberto | Desenvolvedor | 1º | @gmail.com
+Lucas Natan | Desenvolvedor | 1º | @gmail.com
