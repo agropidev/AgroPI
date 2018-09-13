@@ -21,10 +21,10 @@ O projeto está aberto a qualquer pessoa, o nosso objetivo está registrado nos 
 
 Aluno | Cargo | Termo | Email
 ------|-------|-------|-------------
-Lucas Palomo| Scrum Master | 3º | @gmail.com
-Icaro Yuri | Scrum Master | 3º | @gmail.com
-Letiça de Jesus | Desenvolvedor | 3º | @gmail.com
-Leandro Passarelli | Desenvolvedor | 4º | @gmail.com
+Lucas Palomo| Scrum Master | 3º | devlpalomo@gmail.com
+Icaro Yuri | Scrum Master | 3º | icaroyurinishizaki@gmail.com
+Letiça de Jesus | Desenvolvedor | 3º | leticadejesus@gmail.com
+Leandro Passarelli | Desenvolvedor | 4º | llpassarelli@gmail.com
 Matheus Gomes |  Desenvolvedor | 2º | matheusnspaz@gmail.com
 Pedro Luís | Desenvolvedor | 2º | pedro-berg@hotmail.com
 Vinicius Padovezzi | Desenvolvedor | 1º| viniciuspadovezzi@gmail.com
