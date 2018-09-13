@@ -13,6 +13,8 @@ Este repositorio foi criado pela equipe AgroPi do curso Tecnologo em **Big Data 
 
 [Matriz de Habilidade](https://github.com/agropidev/AgroPI/wiki/Matriz-de-Habilidade)
 
+[MVP](https://github.com/agropidev/AgroPI/wiki/MVP)
+
 ### Gostaria de Contribuir com o Projeto ?
 O projeto está aberto a qualquer pessoa, o nosso objetivo está registrado nos topicos Project Charter e MVP vistos anteriormente, logo abaixo está o conhecimento necessário para contribuir com o projeto.    
 
