@@ -44,6 +44,7 @@ Este repositorio foi criado pela equipe AgroPi do curso Tecnologo em **Big Data 
 [Ver imagem do Project Charter](https://i.imgur.com/mo3jaqy.jpg)
 
 ### Cronograma
+![cronograma](https://i.imgur.com/LWlduIQ.png)
 ![cronograma](https://i.imgur.com/PnkIC6e.jpg)
 
 ### Gostaria de Contribuir com o Projeto ?
