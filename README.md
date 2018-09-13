@@ -25,11 +25,11 @@ Lucas Palomo| Scrum Master | 3º | @gmail.com
 Icaro Yuri | Scrum Master | 3º | @gmail.com
 Letiça de Jesus | Desenvolvedor | 3º | @gmail.com
 Leandro Passarelli | Desenvolvedor | 4º | @gmail.com
-Matheus Gomes |  Desenvolvedor | 2º | @gmail.com
-Pedro Luís | Desenvolvedor | 2º | @gmail.com
-Vinicius Padovezzi | Desenvolvedor | 1º| @gmail.com
-Wagner Roberto | Desenvolvedor | 1º | @gmail.com
-Lucas Natan | Desenvolvedor | 1º | @gmail.com
+Matheus Gomes |  Desenvolvedor | 2º | matheusnspaz@gmail.com
+Pedro Luís | Desenvolvedor | 2º | pedro-berg@hotmail.com
+Vinicius Padovezzi | Desenvolvedor | 1º| viniciuspadovezzi@gmail.com
+Wagner Roberto | Desenvolvedor | 1º | wroberto670@gmail.com
+Lucas Natan | Desenvolvedor | 1º | lucaagun00@gmail.com
 
 Não deixe de ajudar a comunidade Open Source, não hesite em nos enviar as suas dúvidas e sugestões.
 email: agropidev@gmail.com
