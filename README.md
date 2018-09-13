@@ -50,13 +50,13 @@ Este repositorio foi criado pela equipe AgroPi do curso Tecnologo em **Big Data 
 O projeto está aberto a qualquer pessoa, o nosso objetivo está registrado nos topicos Project Charter e MVP vistos anteriormente, logo abaixo está o conhecimento necessário para contribuir com o projeto.    
 
 ### Mapa de Conhecimento
-![mapa de conhecimento individual](https://trello-attachments.s3.amazonaws.com/5b7861efc66bb950ed8d896e/5b97c22b00d2ae8397ee9acc/4532f1e9d6a3ae091e6ae73290a5170d/image.png)
 ![mapa de conhecimento](https://i.imgur.com/nXuC9Dy.png)
 ### Mapa Técnico
 ![mapa tecnico](https://i.imgur.com/o9GwVwZ.png)
 
 #### Grafico de Habilidade da Equipe
 ![grafico de habilidade](https://i.imgur.com/plyFM4J.png)
+![grafico de habilidade individual](https://trello-attachments.s3.amazonaws.com/5b7861efc66bb950ed8d896e/5b97c22b00d2ae8397ee9acc/4532f1e9d6a3ae091e6ae73290a5170d/image.png)
 
 Aluno | Cargo | Termo | Email
 ------|-------|-------|-------------
